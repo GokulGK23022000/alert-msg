@@ -1,0 +1,77 @@
+.container{
+	box-shadow:0 0 2px 0.7px grey;
+	padding:33px;
+}
+.primary {
+    background-color: #d0e2f1;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 15px;
+    border-radius: 5px;
+    color: #0d5ba7d1;
+    margin-bottom: 20px;	
+}
+.secondary {
+    background-color: #e8ebe8;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 15px;
+    border-radius: 5px;
+    color:#000000a1;
+    margin-bottom: 20px;	
+}
+.success{
+    background-color: #b6efb6;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 15px;
+    border-radius: 5px;
+    color: #1d740dd1;
+    margin-bottom: 20px;	
+}
+.danger {
+    background-color: #f4cbd1;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 15px;
+    border-radius: 5px;
+    color: #ba0125d1;
+    margin-bottom: 20px;	
+}
+.warning {
+    background-color: #efea9f;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 15px;
+    border-radius: 5px;
+    color: #676402d1;
+    margin-bottom: 20px;	
+}
+.info{
+    background-color: #aae0f3;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 13px;
+    border-radius: 5px;
+    color: #013262d1;
+    margin-bottom: 20px;	
+}
+.light {
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 13px;
+    border-radius: 5px;
+    color: #434648d1;
+    margin-bottom: 20px;	
+}
+.dark{
+    background-color: #c5c8c9;
+    width: 100%;
+    height: 50px;
+    padding: 2px 0 0 13px;
+    border-radius: 5px;
+    color: #0d0d0dd1;
+    margin-bottom: 20px;	
+}
+
